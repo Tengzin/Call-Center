@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="CallTest" time="0.031" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Alexhuu\IdeaProjects\callCenter\target\test-classes;C:\Users\Alexhuu\IdeaProjects\callCenter\target\classes;C:\Users\Alexhuu\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Alexhuu\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Alexhuu\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Alexhuu\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Alexhuu\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Alexhuu\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Tools\Java\jdk1.8.0_71\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Alexhuu\AppData\Local\Temp\surefire8699316910944762192\surefirebooter5089569267294980235.jar C:\Users\Alexhuu\AppData\Local\Temp\surefire8699316910944762192 2020-01-30T19-21-13_336-jvmRun1 surefire8655058573711150954tmp surefire_04076412427254775242tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\Alexhuu\IdeaProjects\callCenter\target\test-classes;C:\Users\Alexhuu\IdeaProjects\callCenter\target\classes;C:\Users\Alexhuu\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Alexhuu\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Alexhuu\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Alexhuu\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Alexhuu\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Alexhuu\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Alexhuu"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Tools\Java\jdk1.8.0_71\jre"/>
+    <property name="basedir" value="C:\Users\Alexhuu\IdeaProjects\callCenter"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Alexhuu\AppData\Local\Temp\surefire8699316910944762192\surefirebooter5089569267294980235.jar"/>
+    <property name="sun.boot.class.path" value="D:\Tools\Java\jdk1.8.0_71\jre\lib\resources.jar;D:\Tools\Java\jdk1.8.0_71\jre\lib\rt.jar;D:\Tools\Java\jdk1.8.0_71\jre\lib\sunrsasign.jar;D:\Tools\Java\jdk1.8.0_71\jre\lib\jsse.jar;D:\Tools\Java\jdk1.8.0_71\jre\lib\jce.jar;D:\Tools\Java\jdk1.8.0_71\jre\lib\charsets.jar;D:\Tools\Java\jdk1.8.0_71\jre\lib\jfr.jar;D:\Tools\Java\jdk1.8.0_71\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_71-b15"/>
+    <property name="user.name" value="Alexhuu"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Tools\Java\jdk1.8.0_71\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Alexhuu\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Alexhuu\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_71"/>
+    <property name="user.dir" value="C:\Users\Alexhuu\IdeaProjects\callCenter"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Tools\Java\jdk1.8.0_71\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\DevOps\apache-maven-3.6.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft\Web Platform Installer\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\groovy-2.4.12\bin;C:\Program Files\Git\cmd;C:\Python27;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Tools\CloudFoundry;C:\Program Files\nodejs\;C:\Users\Alexhuu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Alexhuu\AppData\Local\Microsoft\WindowsApps;C:\Users\Alexhuu\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.71-b15"/>
+    <property name="java.ext.dirs" value="D:\Tools\Java\jdk1.8.0_71\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="SupervisorTest" classname="CallTest" time="0.016"/>
+  <testcase name="noEmployeesTest" classname="CallTest" time="0.003"/>
+  <testcase name="firstCallTest" classname="CallTest" time="0.001"/>
+  <testcase name="ManagerTest" classname="CallTest" time="0.003"/>
+</testsuite>
